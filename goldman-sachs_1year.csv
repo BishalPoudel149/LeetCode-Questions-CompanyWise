@@ -3,7 +3,7 @@ Status,ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 0,1086,High Five,79.7%,Easy,1.8728225432316814, https://leetcode.com/problems/high-five
 1,42,Trapping Rain Water,48.9%,Hard,1.7465805642808125, https://leetcode.com/problems/trapping-rain-water
 1,209,Minimum Size Subarray Sum,38.2%,Medium,1.3987846835630127, https://leetcode.com/problems/minimum-size-subarray-sum
-0,780,Reaching Points,29.4%,Hard,1.0654848189471613, https://leetcode.com/problems/reaching-points
+1,780,Reaching Points,29.4%,Hard,1.0654848189471613, https://leetcode.com/problems/reaching-points
 1,166,Fraction to Recurring Decimal,21.6%,Medium,1.042800072024958, https://leetcode.com/problems/fraction-to-recurring-decimal
 0,1041,Robot Bounded In Circle,49.6%,Medium,0.695004191307158, https://leetcode.com/problems/robot-bounded-in-circle
 0,387,First Unique Character in a String,53.4%,Easy,0.632243999450364, https://leetcode.com/problems/first-unique-character-in-a-string
